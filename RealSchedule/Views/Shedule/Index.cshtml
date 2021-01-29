@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<alert></alert>
+<div ng-controller="ScheduleController" class="container" style="margin-top: 2pc">
+    <div class="row">
+        <div class="col-xs-6 col-sm-3 col-md-2">
+            <a ng-click="addEventOrSchedule()" class="btn btn-primary">
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <i class="fa fa-plus fa-5x"></i>
+                    </div>
+                    <div class="col-xs-12 text-center">
+                        <p>{{eventSchedule}}</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div ng-if="hasSchedule" class="col-xs-6 col-sm-3 col-md-2">
+            <a href="customers" class="btn btn-default">
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <i class="fa fa-calendar fa-5x"></i>
+                    </div>
+                    <div class="col-xs-12 text-center">
+                        <p>Agenda</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+    </div>
+</div>

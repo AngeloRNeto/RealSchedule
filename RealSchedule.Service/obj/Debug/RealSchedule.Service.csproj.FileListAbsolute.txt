@@ -1,0 +1,10 @@
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\bin\Debug\RealSchedule.Service.dll.config
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\bin\Debug\RealSchedule.Service.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\bin\Debug\RealSchedule.Service.pdb
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\bin\Debug\RealShedule.Domain.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\bin\Debug\RealShedule.Domain.pdb
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\obj\Debug\RealSchedule.Service.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\obj\Debug\RealSchedule.Service.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\obj\Debug\RealSchedule.Service.csproj.CopyComplete
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\obj\Debug\RealSchedule.Service.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Service\obj\Debug\RealSchedule.Service.pdb

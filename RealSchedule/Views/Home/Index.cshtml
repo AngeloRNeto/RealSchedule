@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "RealSchedule";
+}
+
+<div ng-controller="HomeController" class="center-block">
+    <div class="row">
+        <div class="col-md-6 mx-auto p-0" style="width: 100%;">
+            <div class="login-box">
+                <div class="login-snip">
+                    <input id="tab-1" type="radio" name="tab" class="sign-in" checked ng-click="clear()"><label for="tab-1" class="tab">Entrar</label>
+                    <input id="tab-2" type="radio" name="tab" class="sign-up" ng-click="clear()"><label for="tab-2" class="tab">Cadastre-se</label>
+                    <div class="login-space">
+                        <div class="login">
+
+                            <div class="group">
+                                <label for="user" class="label">Email</label>
+                                <input id="user" type="text" ng-model="login.email" class="input" placeholder="Seu e-mail">
+                            </div>
+                            <div class="group">
+                                <label for="pass" class="label">Senha</label>
+                                <input id="pass" type="password" ng-model="login.senha" class="input" data-type="password" placeholder="Sua senha">
+                            </div>
+                            <div class="group"> <input type="submit" ng-click="checkLogin()" class="button" value="Entrar"> </div>
+                        </div>
+
+
+                        <div class="sign-up-form">
+                            <div class="group">
+                                <label for="user" class="label">Nome</label>
+                                <input id="user" ng-model="sign.nome" type="text" class="input" placeholder="Seu nome">
+                            </div>
+                            <div class="group">
+                                <label for="pass" class="label">Email</label>
+                                <input id="pass" ng-model="sign.email" type="text" class="input" placeholder="Seu e-mail">
+                            </div>
+                            <div class="group">
+                                <label for="pass" class="label">Senha</label>
+                                <input id="pass" ng-model="sign.senha" type="password" class="input" data-type="password" placeholder="Sua senha">
+                            </div>
+                            <div class="group">
+                                <label for="pass" class="label">Repetir Senha</label>
+                                <input id="pass" ng-model="sign.rtpsenha" type="password" class="input" data-type="password" placeholder="Repetir a senha">
+                            </div>
+
+                            <div class="group"> <input type="submit" ng-click="saveAndLogin()" class="button" value="Salvar e Entrar"> </div>
+                            <div class="hr"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

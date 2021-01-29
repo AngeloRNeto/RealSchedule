@@ -1,0 +1,5 @@
+C:\Users\angel\source\repos\RealSchedule\RealShedule.Domain\bin\Debug\RealShedule.Domain.dll
+C:\Users\angel\source\repos\RealSchedule\RealShedule.Domain\bin\Debug\RealShedule.Domain.pdb
+C:\Users\angel\source\repos\RealSchedule\RealShedule.Domain\obj\Debug\RealShedule.Domain.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\RealSchedule\RealShedule.Domain\obj\Debug\RealShedule.Domain.dll
+C:\Users\angel\source\repos\RealSchedule\RealShedule.Domain\obj\Debug\RealShedule.Domain.pdb

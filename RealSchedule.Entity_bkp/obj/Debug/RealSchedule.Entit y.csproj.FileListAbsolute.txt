@@ -1,0 +1,39 @@
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\RealSchedule.Entit y.dll.config
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\RealSchedule.Entit y.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\RealSchedule.Entit y.pdb
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\EntityFramework.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\Npgsql.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\RealShedule.Domain.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Buffers.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Memory.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Text.Json.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.ValueTuple.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\RealShedule.Domain.pdb
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\EntityFramework.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\Npgsql.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Buffers.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Memory.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Text.Json.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\System.ValueTuple.xml
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\obj\Debug\RealSchedule.Entit y.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\obj\Debug\RealSchedule.Entit y.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\obj\Debug\RealSchedule.Entit y.csproj.CopyComplete
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\obj\Debug\RealSchedule.Entit y.dll
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\obj\Debug\RealSchedule.Entit y.pdb
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\obj\Debug\RealSchedule.Entit_y.Migrations.teste.resources
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\obj\Debug\RealSchedule.Entit y.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\RealSchedule\RealSchedule.Entit y\bin\Debug\Npgsql.pdb
